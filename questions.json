@@ -1,0 +1,412 @@
+{
+    "Chemistry": {
+        "1001": {
+            "Q": "Water expands when freezes, unlike other substance.",
+            "A": true
+        },
+        "1002": {
+            "Q": "Glass is a cooled liquid.",
+            "A": true
+        },
+        "1003": {
+            "Q": "The SI unit of temperature is Kelvin.",
+            "A": true
+        },
+        "1004": {
+            "Q": "The nucleus of an atom consists of electrons and protons.",
+            "A": false
+        },
+        "1005": {
+            "Q": "The most electropositive is Florin.",
+            "A": false
+        },
+        "1006": {
+            "Q": "In a deck of cards, the king has a mustache.",
+            "A": true
+        },
+        "1007": {
+            "Q": "Sodium Carbonate acts as an antacid.",
+            "A": false
+        },
+        "1008": {
+            "Q": "Protium is the most abundant element of Hydrogen.",
+            "A": true
+        },
+        "1009": {
+            "Q": "Density of water is maximum at 4° C.",
+            "A": true
+        },
+        "1010": {
+            "Q": "At absolute zero, the entropy of a perfect crystal is zero. This is 3rd law of Thermodynamics.",
+            "A": true
+        },
+        "1011": {
+            "Q": "Ni2+ has 2 unpaired electrons.",
+            "A": true
+        },
+        "1012": {
+            "Q": "N is more stable than O2.",
+            "A": true
+        },
+        "1013": {
+            "Q": "Sulphur dioxide is a greenhouse gas.",
+            "A": false
+        },
+        "1014": {
+            "Q": "The process of separating a crystalloid, from a colloid by filtration is called peptization.",
+            "A": false
+        },
+        "1015": {
+            "Q": "Uranium is the heaviest element with an atomic weight of 238.",
+            "A": true
+        },
+        "1016": {
+            "Q": "N2O is the chemical formula for laughing gas.",
+            "A": true
+        },
+        "1017": {
+            "Q": "Apple seeds contain cyanide which is good for health.",
+            "A": false
+        },
+        "1018": {
+            "Q": "Helium is the only element that was not discovered in earth’s atmosphere but was discovered in sun.",
+            "A": true
+        },
+        "1019": {
+            "Q": "Lemon contains more sugar than Strawberry.",
+            "A": true
+        },
+        "1020": {
+            "Q": "The only letter that doesn’t approve in the Periodic table is “J”.",
+            "A": true
+        }
+    },
+    "Physics": {
+        "2001": {
+            "Q": "Newton was the first person to define speed.",
+            "A": false
+        },
+        "2002": {
+            "Q": "Blue colour deviates least when passing through a Prism.",
+            "A": false
+        },
+        "2003": {
+            "Q": "Light year is a unit of time.",
+            "A": false
+        },
+        "2004": {
+            "Q": "Hertz is the SI unit of frequency.",
+            "A": true
+        },
+        "2005": {
+            "Q": "It is easier to pull than to push a body.",
+            "A": true
+        },
+        "2006": {
+            "Q": "If the mass of the pendulum is doubled the time period becomes 4 times.",
+            "A": false
+        },
+        "2007": {
+            "Q": "Sound waves are not electromagnetic waves.",
+            "A": true
+        },
+        "2008": {
+            "Q": "Marie Curie discovered radioactivity.",
+            "A": false
+        },
+        "2009": {
+            "Q": "The focal length of a plane mirror is infinite.",
+            "A": true
+        },
+        "2010": {
+            "Q": "The optical fibre works on the principle of total internal reflection.",
+            "A": true
+        },
+        "2011": {
+            "Q": "Sounds travel fastest through solid.",
+            "A": true
+        },
+        "2012": {
+            "Q": "Balmer Series lies in the Infrared region.",
+            "A": false
+        },
+        "2013": {
+            "Q": "In Bohr’s model of an atom, angular momentum is an integral multiple of h/2π.",
+            "A": true
+        },
+        "2014": {
+            "Q": "Convex lens is used as a typical magnifying glass.",
+            "A": true
+        },
+        "2015": {
+            "Q": "The direction of magnetic field lines outside a magnetic bar is from North to South and inside from South to North.",
+            "A": true
+        },
+        "2016": {
+            "Q": "If a person’s mass on Earth is 70Kg then its mass on the moon will change.",
+            "A": false
+        },
+        "2017": {
+            "Q": "The 1st Nobel Prize of Einstein was for “Special Relativity”.",
+            "A": false
+        },
+        "2018": {
+            "Q": "Voltmeter is used to measure current.",
+            "A": false
+        },
+        "2019": {
+            "Q": "The reciprocal of resistance is resistivity.",
+            "A": false
+        },
+        "2020": {
+            "Q": "The sky is blue because of the scattering of light.",
+            "A": true
+        }
+    },
+    "Current Affairs (National)": {
+        "3001": {
+            "Q": "As per the UN Multidimensional Poverty Index (MPI), India has the largest number of poor people worldwide.",
+            "A": true
+        },
+        "3002": {
+            "Q": "Pradhan Mantri Bhartiya Jan Urvarak Pariyojana, was launched recently by the Ministry of Home affairs.",
+            "A": false
+        },
+        "3003": {
+            "Q": "Andhra Pradesh is the host of Agri start-ups.",
+            "A": false
+        },
+        "3004": {
+            "Q": "Google collaborated with Assam to drive digital-led learning and skill development for students and youth.",
+            "A": true
+        },
+        "3005": {
+            "Q": "National Maritime Heritage complex is located in Gujarat.",
+            "A": true
+        },
+        "3006": {
+            "Q": "i-DEX works under the Ministry of Education & Welfare.",
+            "A": false
+        },
+        "3007": {
+            "Q": "Jaipur was the first city ever to host National Coal Conclave Exhibition 2022.",
+            "A": false
+        },
+        "3008": {
+            "Q": "Gandhi Nagar was the city to host defExpo 2022 in October.",
+            "A": true
+        },
+        "3009": {
+            "Q": "Rajamahendravaram the city of Andhra Pradesh was 3rd World Kuchipudi Matyatsavam.",
+            "A": false
+        },
+        "3010": {
+            "Q": "Bharti Das is the new controller general of Accounts (CGA) in October 2022.",
+            "A": true
+        },
+        "3011": {
+            "Q": "COVEX-19 is India’s 1st antidote against the SARS-CoV2 virus.",
+            "A": false
+        },
+        "3012": {
+            "Q": "Neiphiv Rio is the Chief Minister of Mizoram.",
+            "A": false
+        },
+        "3013": {
+            "Q": "President of India is the president of the council of Scientific and Industrial Research.",
+            "A": false
+        },
+        "3014": {
+            "Q": "Mumbai was the venue of the Head of Asian Coast Guard Agencies Meeting.",
+            "A": false
+        },
+        "3015": {
+            "Q": "As per the public affairs index-2022, Sikkim is the best-governed small state in India.",
+            "A": true
+        },
+        "3016": {
+            "Q": "India ranked 5th in the International Shooting Sport Federation (ISSF) world championship shooting held in Osijek, Goatia.",
+            "A": true
+        },
+        "3017": {
+            "Q": "Chandigarh city will host the Pravasi Bharatiya Divas 2023.",
+            "A": false
+        },
+        "3018": {
+            "Q": "Para Megha supercomputer recently replaced Param-Ishan as the North East region’s fastest and most powerful supercomputer.",
+            "A": false
+        },
+        "3019": {
+            "Q": "Under the Bharat Krishi Satellite programme, a minimum of 4 satellites will be required to cover the entire agricultural area of India.",
+            "A": false
+        },
+        "3020": {
+            "Q": "Singapore was the host of the General Assembly of the International Criminal Police Organisation.",
+            "A": false
+        }
+    },
+    "Current Affairs (International)": {
+        "4001": {
+            "Q": "Singapore was the host of the 6th East Asia summit Education Ministers Meeting held in October 2022.",
+            "A": false
+        },
+        "4002": {
+            "Q": "The name of Joseph Wresinski is related to the Eradication of poverty.",
+            "A": true
+        },
+        "4003": {
+            "Q": "Tokyo, Japan was the host to the 6th summit of the conference of interaction & confidence-building measures in Asia.",
+            "A": false
+        },
+        "4004": {
+            "Q": "Russia has blacklisted 24 Chinese companies for having been involved in the South China Sea dispute.",
+            "A": false
+        },
+        "4005": {
+            "Q": "Yoshizaki Tatsuhiko is the longest-serving Prime Minister of Japan.",
+            "A": false
+        },
+        "4006": {
+            "Q": "The south Pacific territory of New Caledonia has rejected independence from France.",
+            "A": true
+        },
+        "4007": {
+            "Q": "Belarus has recently commenced operations of its Nuclear Power Plant.",
+            "A": true
+        },
+        "4008": {
+            "Q": "Benjamin Netanyahu is the Prime Minister of Israel.",
+            "A": true
+        },
+        "4009": {
+            "Q": "QUAD is a group of 4 countries: India, US, Japan & Australia.",
+            "A": true
+        },
+        "4010": {
+            "Q": "Australia is building the world’s 1st platypus sanctuary.",
+            "A": true
+        },
+        "4011": {
+            "Q": "China has recently come up with a policy for 3 children, as against the present 2 children limit.",
+            "A": true
+        },
+        "4012": {
+            "Q": "Operation Pangea XIV was exercised by IMF.",
+            "A": false
+        },
+        "4013": {
+            "Q": "UK launched the “Future Soldier” modernisation plan recently.",
+            "A": true
+        },
+        "4014": {
+            "Q": "The world’s largest natural corundum blue sapphire – “Queen of Asia”, has been found in Bangladesh.",
+            "A": false
+        },
+        "4015": {
+            "Q": "Strasbourg, France is the headquarters of the European Parliament.",
+            "A": true
+        },
+        "4016": {
+            "Q": "Sweden has started a pilot project to produce “Green” steel by burning hydrogen.",
+            "A": true
+        },
+        "4017": {
+            "Q": "USA recently posed the “Sunshine Perfection Act” making daylight time (DST) permanent.",
+            "A": true
+        },
+        "4018": {
+            "Q": "Russia’s central bank introduced a new payment system called “HELLO”",
+            "A": true
+        },
+        "4019": {
+            "Q": "Sweden and Norway have been approved by US to join NATO.",
+            "A": false
+        },
+        "4020": {
+            "Q": "“Kazi Nazrul Islam” is the National poet of Pakistan.",
+            "A": false
+        }
+    },
+    "History": {
+        "5001": {
+            "Q": "First Governor General of Bengal was Warren Hastings.",
+            "A": true
+        },
+        "5002": {
+            "Q": "The territory of Porus who offered strong resistance to Alexander was situated b/w the rivers of Jhelum & Chenab.",
+            "A": true
+        },
+        "5003": {
+            "Q": "The Kalinga was fought in 261 BC.",
+            "A": true
+        },
+        "5004": {
+            "Q": "The title of “Viceroy” was added to the office of the governor-general of India for the first time in 1858AD.",
+            "A": true
+        },
+        "5005": {
+            "Q": "Pali was the language of discourses of Gautama Buddha.",
+            "A": true
+        },
+        "5006": {
+            "Q": "Mohammed Ali Jinnah had invented a slogan that says “Divide & Quit”.",
+            "A": true
+        },
+        "5007": {
+            "Q": "Portuguese were the 1st to establish the “Printing Press in India”.",
+            "A": true
+        },
+        "5008": {
+            "Q": "The iron Pillar at Mehrauli in Delhi is believed to record the achievements of Chandragupta 2.",
+            "A": true
+        },
+        "5009": {
+            "Q": "Chandragupta Maurya, was a contemporary of  Alexander the great.",
+            "A": true
+        },
+        "5010": {
+            "Q": "Samudra Gupta, achievements are recorded in the Allahabad Pillar inscription.",
+            "A": true
+        },
+        "5011": {
+            "Q": "Samaveda is also known as musical hymn or charms of spell.",
+            "A": true
+        },
+        "5012": {
+            "Q": "Samudragupt is known as the Napoleon of India.",
+            "A": true
+        },
+        "5013": {
+            "Q": "Kumaragupta established Nalanda Mahavihara.",
+            "A": true
+        },
+        "5014": {
+            "Q": "16 many layers of Mohenjo-Daro were found.",
+            "A": false
+        },
+        "5015": {
+            "Q": "Kalama was the master of Gautama Buddha.",
+            "A": true
+        },
+        "5016": {
+            "Q": "The Delhi sultanate reached its maximum geographical limits during the reign of Muhammad Bin Tughlaq.",
+            "A": true
+        },
+        "5017": {
+            "Q": "Tripitakas are sacred books of Hindus.",
+            "A": false
+        },
+        "5018": {
+            "Q": "The treaty of Mangalore was signed b/w the east india company and Haidar Ali.",
+            "A": false
+        },
+        "5019": {
+            "Q": "To conquer and annex Peshawar and Punjab, Mahumud of Ghazni defeated Arabs.",
+            "A": false
+        },
+        "5020": {
+            "Q": "Two of the great Mughals wrote their own memories they were Babar and Jahangir.",
+            "A": true
+        }
+    }
+}
